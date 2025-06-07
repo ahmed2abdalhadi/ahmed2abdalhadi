@@ -1,44 +1,49 @@
 <!-- الصفحة الشخصية لـ أحمد منذر عبد الهادي -->
 
 <h1 align="center">Hi 👋, I'm Ahmed Munther</h1>
-<h3 align="center">A Laravel Developer | Automotive Tech Lover 🚗💻</h3>
+<h3 align="center">Full Stack Laravel Developer | Web Technologies Enthusiast | Passionate about Clean Code & Scalable Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Laravel+%7C+PHP+%7C+MySQL;Passionate+about+Cars+%26+Tech;Always+Learning+%F0%9F%93%9A;Let's+build+something+amazing+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Laravel+%7C+Vue.js+%7C+API+Development+%7C+JavaScript+%7C+Next.js+%7C+TailwindCSS+%7C+Project+Management" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me | من أنا
+### 🧑‍💻 About Me | نبذة عني
 
-- 💻 I’m a **Laravel & Web Developer** with a passion for **automotive technology**  
-- 🚘 Founder of **Auto Hub** – a future platform for everything cars  
-- 🧠 Currently learning **Advanced Laravel, API Security, SEO**  
-- 📍 Based in: 🇵🇸 Gaza | Soon: 🇧🇪 / 🇨🇦  
-- ✨ أحب البرمجة، ريادة الأعمال، والتقنيات المرتبطة بالسيارات  
+- 🔥 Laravel Developer with deep focus on backend logic and API integrations  
+- 💡 Skilled in modern web stacks: Vue.js, React, Angular, Next.js  
+- 🧠 Currently mastering: API Security, Laravel Octane, and Scalable Project Architecture  
+- 📍 Based in: 🇵🇸 Gaza | Open to work globally 🌍  
+- 💬 Languages: Arabic (Native), English (Professional)
 
 ---
 
-### 🔧 Languages & Tools | المهارات والأدوات
+### 🔧 Tech Stack | المهارات التقنية
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-FF9800?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Projects & Highlights | المشاريع والمساهمات
+### 🚀 Career Focus | التوجه المهني
 
-- 🔗 [Glamora Store](https://instagram.com/glamora.accessories) – Online store for women's accessories  
-- 🔧 Auto Hub – A complete car tech platform (Coming Soon)  
-- 🛠️ Laravel-based apps (Admin Dashboards, APIs, CMS, etc.)  
-- 🌐 Building secure websites and platforms for clients  
+- 💼 العمل كمطور Laravel في شركات تقنية متقدمة  
+- 🧩 بناء نظم معقدة وإدارة مشاريع ضخمة باستخدام Laravel + Vue  
+- 🧑‍🏫 تطوير مهارات **قيادة الفرق** البرمجية و**إدارة المشاريع البرمجية**  
+- 🔐 التركيز على الأمان، الأداء، وقابلية التوسع في المشاريع  
+- 📈 هدفي: أن أكون خبيراً معترفاً به في Laravel وFull Stack Development
 
 ---
 
@@ -68,23 +73,16 @@
 
 ---
 
-### 🧭 Personal Goals | أهدافي الشخصية
+### 💡 Future Plans | الخطط المستقبلية
 
-- 🚀 Launch my own car-tech startup  
-- 📘 Master full-stack Laravel with modern practices  
-- 🌍 Expand my business globally (AMA Group)  
-- 💼 Build a career that combines **cars + tech + business**
-
----
-
-### 📝 Languages | اللغات
-
-- 🇺🇸 English – Professional  
-- 🇸🇦 Arabic – Native  
-- 🇫🇷 French – Beginner  
+- 📦 نشر حزم Laravel مخصصة للمطورين  
+- 🌐 إطلاق منصة تعليمية بسيطة حول Laravel + Vue  
+- 🤝 التعاون مع فرق برمجية حول العالم  
+- 🚀 تطوير أدوات SaaS باستخدام Next.js وTailwind  
+- 🎯 الوصول إلى مستوى خبير تقني (Tech Lead)
 
 ---
 
 <p align="center">
-  💙 Made with passion by <strong>Ahmed Munther</strong> | Inspired by cars & code 🚗💻  
+  💙 Built with Laravel passion by <strong>Ahmed Munther</strong> | Inspired by modern web technologies and software architecture 💻
 </p>
