@@ -1,6 +1,6 @@
 <!-- الصفحة الشخصية لـ أحمد منذر عبد الهادي -->
 
-<h1 align="center">Hi 👋, I'm Ahmed Munther</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Munther Abdal-Hadi </h1>
 <h3 align="center">Laravel Developer | Web Technologies Specialist 🚀</h3>
 
 <p align="center">
