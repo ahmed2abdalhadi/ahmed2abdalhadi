@@ -93,7 +93,6 @@
 
 - 🇺🇸 English – Professional
 - 🇸🇦 Arabic – Native
-- 🇫🇷 French – Beginner
 
 ---
 
