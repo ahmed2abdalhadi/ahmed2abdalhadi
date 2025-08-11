@@ -89,6 +89,26 @@
 
 ---
 
+### 📫 Contact Me | تواصل معي
+
+<p align="center">
+  <a href="https://ahmed2abdalhadi.github.io/Dream-House/" target="_blank">
+<!--     <img src="https://img.shields.io/badge/Linktree-39e09b?style=for-the-badge&logo=linktree&logoColor=white" /> -->
+Dream-House
+    
+  </a>
+  <a href="https://instagram.com/ahmed2abdal.hadi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ahmed2abdalhadi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmed.abdalhadi.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 ### 🗣️ Languages | اللغات
 
 - 🇺🇸 English – Professional
@@ -99,3 +119,4 @@
 <p align="center">
   🧠 Ahmed Munther | Laravel Enthusiast | Inspired by Code & Innovation  
 </p>
+
