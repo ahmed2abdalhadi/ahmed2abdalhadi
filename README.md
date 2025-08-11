@@ -95,22 +95,23 @@
   <a href="https://ahmed2abdalhadi.github.io/Dream-House/" target="_blank">
     <img src="https://img.shields.io/badge/Dream--House-39e09b?style=for-the-badge&logo=home&logoColor=white" alt="Dream House" />
   </a>
-  <a href="https://your-photoediting-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/PhotoEditing-39e09b?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photo Editing" />
+  <a href="https://ahmed2abdalhadi.github.io/PhotoEditing/" target="_blank">
+    <img src="https://img.shields.io/badge/PhotoEditing-39e09b?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photo Editing" />
   </a>
-  <a href="https://your-university-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/University-39e09b?style=for-the-badge&logo=university&logoColor=white" alt="University" />
+  <a href="https://ahmed2abdalhadi.github.io/universty/" target="_blank">
+    <img src="https://img.shields.io/badge/Universty-39e09b?style=for-the-badge&logo=university&logoColor=white" alt="Universty" />
   </a>
-  <a href="https://your-salon-link.com" target="_blank">
+  <a href="https://ahmed2abdalhadi.github.io/Salon/" target="_blank">
     <img src="https://img.shields.io/badge/Salon-39e09b?style=for-the-badge&logo=hair-cross&logoColor=white" alt="Salon" />
   </a>
-  <a href="https://your-tech-link.com" target="_blank">
+  <a href="https://ahmed2abdalhadi.github.io/tech/" target="_blank">
     <img src="https://img.shields.io/badge/Tech-39e09b?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Tech" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://ahmed2abdalhadi.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-39e09b?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
 
 
 
@@ -126,6 +127,7 @@
 <p align="center">
   🧠 Ahmed Munther | Laravel Enthusiast | Inspired by Code & Innovation  
 </p>
+
 
 
 
