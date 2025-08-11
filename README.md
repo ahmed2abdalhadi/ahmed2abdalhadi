@@ -89,22 +89,29 @@
 
 ---
 
-### 📫 Contact Me | تواصل معي
+### 📫 My Site  |  مواقعي
 
 <p align="center">
   <a href="https://ahmed2abdalhadi.github.io/Dream-House/" target="_blank">
     <img src="https://img.shields.io/badge/Dream--House-39e09b?style=for-the-badge&logo=home&logoColor=white" alt="Dream House" />
   </a>
-  <a href="https://instagram.com/ahmed2abdal.hadi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://your-photoediting-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/PhotoEditing-39e09b?style=for-the-badge&logo=photoshop&logoColor=white" alt="Photo Editing" />
   </a>
-  <a href="https://linkedin.com/in/ahmed2abdalhadi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://your-university-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/University-39e09b?style=for-the-badge&logo=university&logoColor=white" alt="University" />
   </a>
-  <a href="mailto:ahmed.abdalhadi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://your-salon-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Salon-39e09b?style=for-the-badge&logo=hair-cross&logoColor=white" alt="Salon" />
+  </a>
+  <a href="https://your-tech-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tech-39e09b?style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Tech" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-39e09b?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
 
 
 
@@ -119,6 +126,7 @@
 <p align="center">
   🧠 Ahmed Munther | Laravel Enthusiast | Inspired by Code & Innovation  
 </p>
+
 
 
 
